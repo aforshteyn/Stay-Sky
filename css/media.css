@@ -1,0 +1,12 @@
+@media (max-width: 1400px){
+  .services__items{
+    display: block;
+}
+
+
+
+/* Минимальная ширина для того, чтобы все возвращалось */
+@media (min-width: 700px){
+
+  }
+}
